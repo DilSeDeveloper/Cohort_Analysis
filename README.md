@@ -1,8 +1,8 @@
 # Cohort Analysis using Excel 📊
 
-This project focuses on **Cohort Analysis using Microsoft Excel** to understand customer behavior over time. The analysis helps identify **retention trends, repeat customer activity, and revenue contribution** across different customer cohorts.
+This project focuses on **Cohort Analysis using Microsoft Excel** to study customer behavior, retention trends, and repeat purchase patterns over time.
 
-It is a data analytics project designed to derive meaningful business insights from transactional data using **Excel formulas, pivot tables, conditional formatting, and dashboards**.
+The analysis helps understand how different customer groups (cohorts) behave after their first interaction or purchase, making it useful for **business intelligence and customer retention strategies**.
 
 ---
 
@@ -11,10 +11,10 @@ It is a data analytics project designed to derive meaningful business insights f
 The main objective of this project is to:
 
 * Group customers into cohorts based on their **first purchase month**
-* Track their activity in subsequent months
+* Track their activity in the following months
 * Analyze **customer retention rate**
-* Understand **repeat purchase patterns**
-* Visualize trends using an interactive Excel dashboard
+* Identify repeat customer behavior
+* Visualize trends using an interactive **Excel dashboard**
 
 ---
 
@@ -24,28 +24,32 @@ The main objective of this project is to:
 * Pivot Tables
 * Pivot Charts
 * Conditional Formatting
+* Cohort Retention Matrix
 * Heatmaps
-* Data Cleaning
-* Retention Matrix
-* Cohort Table Creation
 * Dashboard Visualization
+* Data Cleaning
+
+---
+
+## 📷 Dashboard Preview
+
+### Dashboard Screenshot 1
+
+![Dashboard Preview 1](image1.png)
+
+### Dashboard Screenshot 2
+
+![Dashboard Preview 2](image2.png)
 
 ---
 
 ## 📈 Key Insights
 
-* Identified the month-wise customer retention trend
-* Measured how many users returned in the following months
-* Created a cohort retention matrix for better visualization
-* Highlighted high and low retention cohorts
-* Derived business insights for customer engagement strategy
-
----
-
-## 📂 Files Included
-
-* `Cohort Analysis using Excel.xlsx` → Main project file
-* `README.md` → Project overview and documentation
+* Built a **month-wise retention matrix**
+* Analyzed repeat customer behavior
+* Identified high-retention and low-retention cohorts
+* Visualized customer drop-off trends
+* Derived actionable business insights
 
 ---
 
@@ -56,19 +60,29 @@ Cohort analysis is widely used in:
 * E-commerce analytics
 * Customer retention studies
 * Product growth analysis
-* Subscription business models
-* Marketing campaign performance
+* Subscription models
+* Marketing performance tracking
 
 ---
 
-## ✨ Learning Outcome
+## ✨ Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
 * Customer analytics
+* Retention analysis
 * Business intelligence concepts
-* Data visualization in Excel
-* Analytical thinking and reporting
+* Data visualization using Excel
+* Analytical thinking
+
+---
+
+## 📂 Files Included
+
+* `Cohort Analyis using Excel.xlsx`
+* `image1.png`
+* `image2.png`
+* `README.md`
 
 ---
 
@@ -76,4 +90,4 @@ Through this project, I strengthened my understanding of:
 
 **Saumya Jain**
 
-If you like this project, feel free to ⭐ the repository.
+If you found this project useful, feel free to ⭐ the repository.
